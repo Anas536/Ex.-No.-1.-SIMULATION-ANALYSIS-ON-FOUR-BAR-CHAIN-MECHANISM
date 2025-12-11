@@ -54,8 +54,8 @@
 
 
 
-#### Name: KABELAN G K 
-#### Register Number: 212224110027
+#### Name: MOHAMED ANAS O.I
+#### Register Number: 212223110028
 
 ## RESULT:
  ### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
